@@ -15,7 +15,7 @@
 
 ### 方法一：直接加載
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/你的用戶名/Moonlight-PvB-Script/main/src/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wjsn1228/Moonlight-PvB-Script/main/src/main.lua"))()
 ```
 
 方法二：手動安裝
