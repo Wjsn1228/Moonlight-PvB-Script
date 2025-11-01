@@ -1,0 +1,22 @@
+```gitignore
+# 系統檔案
+.DS_Store
+Thumbs.db
+*.tmp
+
+# 編輯器設定
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Roblox 相關
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+roblox_output/
+
+# 日誌檔案
+*.log
+```
